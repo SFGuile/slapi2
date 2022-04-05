@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.slyynewwebservice.SlyynewwebserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.722 sec - in com.slyynewwebservice.SlyynewwebserviceApplicationTests

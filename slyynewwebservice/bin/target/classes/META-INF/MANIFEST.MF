@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: slyynewwebservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: redmond
+Implementation-Vendor-Id: com.slyynewwebservice
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/slyynewwebse
+ rvice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

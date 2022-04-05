@@ -1,0 +1,17 @@
+com\slyynewwebservice\models\QueryAvaildateRetDetail.class
+com\slyynewwebservice\SlyynewwebserviceApplication.class
+com\slyynewwebservice\models\QueryAvaildateUpload.class
+com\slyynewwebservice\models\Gjret.class
+com\slyynewwebservice\models\QueryProducedateRet.class
+com\slyynewwebservice\web\api\UploadgjbnewController.class
+com\slyynewwebservice\models\Sbretdetails.class
+com\slyynewwebservice\models\Sbuploadetails.class
+com\slyynewwebservice\models\QueryProducedate.class
+com\slyynewwebservice\models\Sbuploadret.class
+com\slyynewwebservice\models\Gjupload.class
+com\slyynewwebservice\models\QueryProducedateDetails.class
+com\slyynewwebservice\models\Sbuploads.class
+com\slyynewwebservice\models\QueryAvaildateRet.class
+com\slyynewwebservice\models\QueryprodbatchAvaildateDetails.class
+com\slyynewwebservice\models\Details.class
+com\slyynewwebservice\web\api\QueryProducedateController.class

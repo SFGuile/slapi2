@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.boot.builder.SpringApplicationBuilder"/>
+<fullyQualifiedTypeName name="org.springframework.boot.context.web.SpringBootServletInitializer"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryAvaildateRetDetail"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryAvaildateRet"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.JedisPool"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.Jedis"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.JedisPoolConfig"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.exceptions.JedisConnectionException"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.exceptions.JedisException"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryAvaildateUpload"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryprodnameAvaildateDetail"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonNode"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.core.JsonGenerationException"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonMappingException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryprodbatchAvaildateDetails"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.core.type.TypeReference"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.Sbuploadret"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.Sbuploads"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryProducedateRet"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryProducedate"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="com.slyynewwebservice.models.QueryProducedateDetails"/>
+<fullyQualifiedTypeName name="org.springframework.boot.web.support.SpringBootServletInitializer"/>
+</qualifiedTypeNameHistroy>
